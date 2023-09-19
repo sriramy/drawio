@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-19T11:49:15.577Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 OPR/102.0.0.0" etag="aX42kPCDQHHSpVkX5rEG" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-19T12:00:58.332Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 OPR/102.0.0.0" etag="SYwUZNdOK_JzqgdvEJDX" version="21.7.5" type="github">
   <diagram name="Page-1" id="WWYR_Ep8dM9NykQrXsD0">
     <mxGraphModel dx="2020" dy="1101" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
@@ -189,7 +189,7 @@
           <mxGeometry x="179" y="281" width="120" height="44" as="geometry" />
         </mxCell>
         <mxCell id="uRuZwt9Hl7_899fX3ndo-66" value="VLAN represents the actual Virtual Function in the NIC" style="text;html=1;strokeColor=#b85450;fillColor=#f8cecc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="360" y="415" width="120" height="44" as="geometry" />
+          <mxGeometry x="350" y="418.5" width="120" height="44" as="geometry" />
         </mxCell>
         <mxCell id="uRuZwt9Hl7_899fX3ndo-68" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uRuZwt9Hl7_899fX3ndo-55" target="uRuZwt9Hl7_899fX3ndo-67">
           <mxGeometry relative="1" as="geometry">
